@@ -1,1 +1,2 @@
-Flipkart clone using reactjs...
+Flipkart clone using React.Js
+
